@@ -33,6 +33,7 @@ The master_list is the actual users that are about to be assigned training.
 
 ## Time Saved
 - Manual Excel VLOOKUPs and filtering across 3–5 modules = ~20+ minutes
+- The scripts runs for 4 minutes
 
 ## Author
 Qinisela Ndlovu | Automation | Python
